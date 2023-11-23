@@ -12,24 +12,20 @@ This document provides a comparative analysis to aid in selecting the most appro
 Characteristics
 ---------------
 
-```
 | Feature | minikube | kind | k3d |
 | --- | --- | --- | --- |
 | **OS/Architecture** | Linux, macOS, Windows | Most OS | Most OS |
 | **Automation** | Good | Better | Best |
 | **Additional Features** | Monitoring, Dashboard | Limited Monitoring | Fast Deployment |
-```
 
 Advantages and Disadvantages
 ----------------------------
 
-```
 | Tool | Advantages | Disadvantages |
 | --- | --- | --- |
 | minikube | Easy setup, Comprehensive Docs, Strong Community | Limited Scalability, Resource-Intensive |
 | kind | Efficient for CI/CD, Lightweight | Less Intuitive, Requires Docker Knowledge |
 | k3d | Fastest Setup, Lightweight, Ideal for Rapid Prototyping | Less Mature, Limited Community Support |
-```
 
 Demonstration
 -------------
