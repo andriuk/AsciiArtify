@@ -17,6 +17,15 @@ Characteristics
 | **OS/Architecture** | Linux, macOS, Windows | Most OS | Most OS |
 | **Automation** | Good | Better | Best |
 | **Additional Features** | Monitoring, Dashboard | Limited Monitoring | Fast Deployment |
+| **Resource Efficiency** | Moderate | High | High |
+| **Ease of Installation** | Easy | Moderate | Easy |
+| **Cluster Creation Speed** | Moderate | Fast | Fastest |
+| **Scalability** | Low | Moderate | Moderate |
+| **Community and Support** | Strong | Growing | Emerging |
+| **Integration with CI/CD** | Good | Excellent | Good |
+| **Learning Curve** | Moderate | Steep | Moderate |
+| **Customization Flexibility** | High | High | Moderate |
+| **Network Complexity** | Low | Moderate | Low |
 
 Advantages and Disadvantages
 ----------------------------
@@ -30,10 +39,7 @@ Advantages and Disadvantages
 Demonstration
 -------------
 
-**Recommended Tool:** k3d
-
-*   **Demo Overview:** Deploy “Hello World” app using k3d.
-*   **Reason:** Fastest setup aligns with startup’s rapid development needs.
+![Application on Kuber](demo.gif)
 
 Conclusions
 -----------
