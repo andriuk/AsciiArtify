@@ -70,4 +70,10 @@ The expected result should resemble the following animation:
 
 ![result](/doc/img/result.gif)
 
+
+# Shows synchronization change in Git
+
+![cycle](/doc/img/cycle.gif)
+
+
 ---
